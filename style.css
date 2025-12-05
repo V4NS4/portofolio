@@ -489,6 +489,11 @@ body {
   transition: all 0.3s ease;
 }
 
+.read-more:hover {
+  color: #ff4a00;
+  text-decoration: underline;
+}
+
 @media (max-width: 768px) {
   .blog-item {
     flex: 0 0 90vw;
